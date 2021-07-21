@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Financizy/static/css/main.f87c6d25.chunk.css",
+    "main.js": "/Financizy/static/js/main.8361d18e.chunk.js",
+    "main.js.map": "/Financizy/static/js/main.8361d18e.chunk.js.map",
+    "runtime-main.js": "/Financizy/static/js/runtime-main.425f5a02.js",
+    "runtime-main.js.map": "/Financizy/static/js/runtime-main.425f5a02.js.map",
+    "static/js/2.7b1c8aac.chunk.js": "/Financizy/static/js/2.7b1c8aac.chunk.js",
+    "static/js/2.7b1c8aac.chunk.js.map": "/Financizy/static/js/2.7b1c8aac.chunk.js.map",
+    "index.html": "/Financizy/index.html",
+    "static/css/main.f87c6d25.chunk.css.map": "/Financizy/static/css/main.f87c6d25.chunk.css.map",
+    "static/js/2.7b1c8aac.chunk.js.LICENSE.txt": "/Financizy/static/js/2.7b1c8aac.chunk.js.LICENSE.txt",
+    "static/media/png-4.e13ee37c.png": "/Financizy/static/media/png-4.e13ee37c.png",
+    "static/media/png-5.f79de61f.png": "/Financizy/static/media/png-5.f79de61f.png",
+    "static/media/png-6.2092ae25.png": "/Financizy/static/media/png-6.2092ae25.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.425f5a02.js",
+    "static/js/2.7b1c8aac.chunk.js",
+    "static/css/main.f87c6d25.chunk.css",
+    "static/js/main.8361d18e.chunk.js"
+  ]
+}
